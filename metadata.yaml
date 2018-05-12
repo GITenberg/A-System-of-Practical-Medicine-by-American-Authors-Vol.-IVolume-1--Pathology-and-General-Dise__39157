@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '39871'
     url: http://www.gutenberg.org/2009/agents/39871
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39157#A-System-of-Practical-Medicine-by-American-Authors-Vol.-IVolume-1--Pathology-and-General-Dise_
 gutenberg_issued: '2012-03-15'
 gutenberg_type: Text
 identifiers:
