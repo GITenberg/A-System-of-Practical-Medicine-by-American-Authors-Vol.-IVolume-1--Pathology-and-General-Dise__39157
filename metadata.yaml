@@ -1,0 +1,33 @@
+_repo: A-System-of-Practical-Medicine-by-American-Authors-Vol.-IVolume-1--Pathology-and-General-Dise__39157
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Pepper, William
+    alias: Pepper, W. (William)
+    birthdate: 1843
+    deathdate: 1898
+    gutenberg_agent_id: '39870'
+    url: http://www.gutenberg.org/2009/agents/39870
+  - agent_name: Starr, Louis
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '39871'
+    url: http://www.gutenberg.org/2009/agents/39871
+description: ''
+gutenberg_issued: '2012-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39157'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RC'
+- !lcsh 'Medicine -- Practice'
+title: "A System of Practical Medicine by American Authors, Vol. I\r\nPathology and\
+  \ General Diseases"
+url: http://www.gutenberg.org/ebooks/39157
